@@ -1,0 +1,20 @@
+#pragma once
+#include <Windows.h>
+#include "Helper.hpp"
+
+VOID DetectMousePatternA();
+VOID DetectMousePatternR();
+VOID DetectMousePattern6();
+VOID DetectMousePatternC();
+VOID DetectMousePatternH();
+VOID DetectMousePatternL();
+VOID DetectMousePatternD();
+VOID DetectMousePatternI();
+VOID DetectMousePatternB();
+VOID DetectMousePatternU();
+VOID DetectMousePatternT();
+VOID DetectMousePatternN();
+VOID DetectMousePatternE();
+VOID DetectMousePatternK();
+VOID DetectMousePatternM();
+VOID DetectMousePattern_();
