@@ -31,7 +31,7 @@ This is some challenges I created for CTFs.
 ## TCP1P CTF 2024: Exploring Nusantara’s Digital Realm
 |Challenge|Category|Difficulty|Keywords|  
 |:-:|:-:|:-:|:-:|
-|[sim(https://github.com/TCP1P/TCP1P-CTF-2024-Challenges/tree/main/Pwn/sim)]()|Pwn|★★★☆☆|Heap Overflow, Race Condition|
+|[sim](https://github.com/TCP1P/TCP1P-CTF-2024-Challenges/tree/main/Pwn/sim)|Pwn|★★★☆☆|Heap Overflow, Race Condition|
 
 ## Indonesia IT Security Conference (IDSECCONF) CTF 2024 Finals
 |Challenge|Category|Difficulty|Keywords|  
